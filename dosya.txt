@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUNm1xcnZIQU1NZXVHT00xZTJpQkk4R2RMTWlJVWU4ZUdOMnRoa3FVS0dRPQ@193.109.79.182:38806?type=tcp#aydogdy-x31wvaog
+vless://fe996ccd-89aa-4138-855d-19db6eaf46eb@www.viptm.ru:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=mrgn.wegh.online&fp=chrome&type=ws&sni=mrgn.wegh.online#%F0%9F%9A%80%20Marz%20%28atam%29%20%5BVLESS%20-%20ws%5D
